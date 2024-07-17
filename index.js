@@ -1,0 +1,1 @@
+ReactDOM.render(<ul><li>lu</li></ul>,document.getElementById('root'))
