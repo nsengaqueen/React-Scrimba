@@ -1,0 +1,63 @@
+.profile {
+  width: 100%;
+}
+
+.img {
+  height: 50%;
+  width: 80%;
+}
+.profileName {
+  font-size: 25px;
+  padding-left: 25px;
+}
+.profileOccup {
+  color: rgba(243, 191, 153, 1);
+  font-size: 12.8px;
+  padding-left: 70px;
+}
+.profileWeb {
+  font-size: 10.24px;
+  padding-left: 80px;
+}
+.app {
+  background-color: rgba(26, 27, 33, 1);
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  width: 300px;
+  border-radius: 10px;
+}
+.about {
+  font-size: 10.24px;
+  padding-left: 40px;
+}
+.aboutProfile{
+  padding-left: 55px;
+}
+.interestsProfile{
+  padding-left: 55px;
+}
+.footer{
+  margin-top: 50px;
+  display: flex;
+  width: 100%;
+  gap: 40px;
+  width: 40px;
+  margin-left: 40px;
+  
+}
+
+.interests {
+  font-size: 10.24px;
+  padding-left: 40px;
+}
+body {
+  background-color: rgba(35, 37, 44, 1);
+}
+.emailButton {
+  padding: 5px 90px;
+ margin: 10px 20px 30px 30px;
+ font-weight: bold;
+ 
+}
