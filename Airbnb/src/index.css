@@ -1,0 +1,27 @@
+.navbar {
+  padding: 1rem 2rem;
+  box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+}
+.hero{
+font-family: 'poppins';
+ padding: 3rem;
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+}
+ .heroImg {
+width: 600px;
+align-self: center;
+}
+
+.button1{
+ z-index: 10;
+ margin: 0.6rem;
+position: absolute;
+  
+}
+.woman{
+  position: relative;
+}
+
+
