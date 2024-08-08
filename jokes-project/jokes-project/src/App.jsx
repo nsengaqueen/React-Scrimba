@@ -8,6 +8,9 @@ function App() {
       <Jokes
         Setup=" I got my daughter a fridge for her birthday."
         Punchline=" I can't wait to see her face light up when she opens it."
+        Upvotes = {3}
+        Comments = {['marry','slap','kill']}
+        isPun = {true}
       />
       <Jokes
         Setup=" How did the hacker escape the police?"
